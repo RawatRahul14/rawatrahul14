@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I'm currently working on: building machine learning models for portfolio optimization to balance risk and returns using financial data and predictive algorithms.<br>💻 I'm currently learning Advance AI techniques such as Attention Models and Reinforcement learning.<br>🔬 I enjoy experimenting with different machine learning models and often use tools like TensorFlow and PyTorch to bring my ideas to life.<br>
+📊 I'm currently working on: building machine learning models for portfolio optimization to balance risk and returns using financial data and predictive algorithms.<br>💻 I'm currently learning Advance AI techniques such as Attention Models and Generative AI.<br>🔬 I enjoy experimenting with different machine learning models and often use tools like TensorFlow and PyTorch to bring my ideas to life.<br>
 
 
 ## 🌐 Socials:
