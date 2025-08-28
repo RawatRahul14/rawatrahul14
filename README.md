@@ -1,5 +1,7 @@
 # 💫 About Me:
-📊 I'm currently working on: building machine learning models for portfolio optimization to balance risk and returns using financial data and predictive algorithms.<br>💻 I'm currently learning Advance AI techniques such as Attention Models and Generative AI.<br>🔬 I enjoy experimenting with different machine learning models and often use tools like TensorFlow and PyTorch to bring my ideas to life.<br>
+I’m currently building PiuFi, a multi-model AI platform that combines deep learning models for stock price prediction with Markov chain models for price movement direction.<br>💻 I focus on designing end-to-end Data Science and AI workflows, integrating models, pipelines, and automation to solve real-world business problems.<br>🔬 I enjoy learning new technologies and applying them to create impactful, data-driven solutions.<br>
+
+✨ My expertise lies in **retrieval-augmented generation (RAG)** for intelligent search, **predictive modeling** for finance and business use cases, and **multi-agent systems** that bring these components together into practical, production-ready solutions.
 
 
 ## 🌐 Socials:
